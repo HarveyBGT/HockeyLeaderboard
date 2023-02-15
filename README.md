@@ -1,3 +1,8 @@
+# READ ME Info
+
+The project ambition is to get more familiar with react by creating a small leaderboard website to rank sports stats of my hockey team.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
