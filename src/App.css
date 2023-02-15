@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/*///////////////////////////////////////////////////yathomasi/fantasyplayers/blob/master/static/fonts/OpenSans-Regular.ttf////////////////
+[ FONT ]*/
+
+
+@font-face {
+  font-family: OpenSans-Regular;
+  src: url('./OpenSans-Regular.ttf'); 
+}
+
+
+
+/*//////////////////////////////////////////////////////////////////
+[ RESTYLE TAG ]*/
+* {
+    margin: 0px; 
+    padding: 0px; 
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    font-family: sans-serif;
+}
+body{
+  background: #c850c083;
+  background: -webkit-linear-gradient(45deg, #4158d0, #50c850);
+  background: -o-linear-gradient(45deg, #4158d0, #c850c0);
+  background: -moz-linear-gradient(45deg, #4158d0, #c850c0);
+  background: linear-gradient(45deg, #4158d0, #00ff85);
+}

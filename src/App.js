@@ -7,6 +7,9 @@ function App() {
         <h1>
           Hockey Leaderboard
         </h1>
+        <p>
+          Coming soon...
+        </p>
         
       </header>
     </div>
