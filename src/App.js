@@ -4,9 +4,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
+        <h1>
           Hockey Leaderboard
-        </p>
+        </h1>
         
       </header>
     </div>
